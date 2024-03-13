@@ -1,0 +1,26 @@
+ /* Full credit to code.org for task */
+  
+p {
+  color: green;
+  font-family: courior, monospace;
+  font-size: 25px;
+}
+h1 {
+  color: green;
+  font-family: courior, monospace;
+}
+/*added the height to 150px*/
+img{
+  width: 190px;
+  height: 200px;
+  border: solid ;
+}
+body{
+  background-image: linear-gradient(#a7fba7, #e5e1e1 );
+  text-align: center;
+}
+.Animal{
+  border: 3px solid;
+  width: 400px;
+ position: relative; 
+  left: 40%;
